@@ -5,6 +5,7 @@
 - utm_term      # Google Anlaytics: campaign term
 - utm_content   # Google Analytics: campaign content
 - utm_campaign  # Google Analytics: campaign name
+- _ga           # Google Analytics: client ID
 - sms_ss        # addthis.com tracker
 - awesm         # awe.sm tracker
 - xtor          # AT Internet tracker
