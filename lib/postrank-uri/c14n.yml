@@ -1,15 +1,22 @@
 ---
 :all:
-- utm_source    # Google Analytics: campaign source
-- utm_medium    # Google Analytics: campaign medium
-- utm_term      # Google Anlaytics: campaign term
-- utm_content   # Google Analytics: campaign content
-- utm_campaign  # Google Analytics: campaign name
-- _ga           # Google Analytics: client ID
-- sms_ss        # addthis.com tracker
-- awesm         # awe.sm tracker
-- xtor          # AT Internet tracker
-- PHPSESSID     # Legacy PHP session identifier
+- utm_source      # Google Analytics: campaign source
+- utm_medium      # Google Analytics: campaign medium
+- utm_term        # Google Anlaytics: campaign term
+- utm_content     # Google Analytics: campaign content
+- utm_campaign    # Google Analytics: campaign name
+- _ga             # Google Analytics: client ID
+- sms_ss          # addthis.com tracker
+- awesm           # awe.sm tracker
+- xtor            # AT Internet tracker
+- PHPSESSID       # Legacy PHP session identifier
+- click           # Ghurka.com param
+- gclid           # Google Click Identifier / Ghurka.com param
+- dm_i            # Ghurka.com param
+- irgwc           # Ghurka.com param
+- source_campaign # Ghurka.com param
+- m_story_id      # Maker UGC param
+- m_grid_pos      # Maker UGC param
 
 :hosts:
   nytimes.com:
